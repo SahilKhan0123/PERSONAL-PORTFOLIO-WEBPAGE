@@ -18,4 +18,4 @@ The design uses a calming blue and white color scheme with smooth gradients and 
 
 Animations, hover effects, and responsive design principles are used to ensure the website looks great across all devices. I implemented smooth scrolling and intuitive navigation to enhance user experience. This project not only showcases my frontend skills but also reflects my personality and passion for technology.
 
-#
+#OUTPUT : ![Image](https://github.com/user-attachments/assets/ac6bc500-7e36-41e7-afce-f0284ace1d25)
